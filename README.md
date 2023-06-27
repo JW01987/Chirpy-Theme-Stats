@@ -1,4 +1,4 @@
-Stats for Chirpy Theme
+# Stats for Chirpy Theme
 
 ```
 [![Github Blog Stats](https://gitblog-stats.vercel.app/api?xml=<RSS LINK>)](<YOUR BLOG URL>)
