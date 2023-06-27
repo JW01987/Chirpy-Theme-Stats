@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const port = 3000;
+const port = process.envPOST || 3000;
 const { parse } = require("rss-to-json");
 
 app.get("/", (req, res) => {

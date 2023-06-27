@@ -2,5 +2,18 @@
   "dependencies": {
     "express": "^4.18.2",
     "rss-to-json": "^2.1.1"
-  }
+  },
+  "name": "gitblog-stats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
