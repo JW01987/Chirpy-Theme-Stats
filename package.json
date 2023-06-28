@@ -3,7 +3,7 @@
     "express": "^4.18.2",
     "rss-to-json": "^2.1.1"
   },
-  "name": "gitblog-stats",
+  "name": "Chirpy Theme Stats",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
@@ -13,7 +13,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Jean",
+  "license": "MIT",
+  "description": "Stats for Chirpy Theme"
 }
